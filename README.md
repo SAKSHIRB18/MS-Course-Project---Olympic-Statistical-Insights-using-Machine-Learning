@@ -12,7 +12,7 @@ athlete_events.csv and noc_regions.csv is the 120 years of olympic dataset.The c
 
 ### Phase 2: Comparative Performance of Machine Learning Models predicting the Medal Distribution Accuracy(Jupyter Notebook)
 
- I have used two models to compare their performance predicting the Medal Distribution Accuracy. The two models are Random Forest Classifier(Olympic_prediction_randomforest_classifier.ipynb) and Support Vector Machine(Olympic_medal_SVM,ipynb).
+ I have used two models to compare their performance predicting the Medal Distribution Accuracy. The two models are Random Forest Classifier(Olympic_prediction_randomforest_classifier.ipynb) and Support Vector Machine(Olympic_medal_SVM.ipynb).
 
 
 
