@@ -1,4 +1,4 @@
-# MS-Course-Project---Olympic-Statistical-Insights-using-Machine-Learning
+# MS-Course-Project---Olympic Games-Statistical-Insights-using-Machine-Learning
 
 ### This project Olympic Games Statistical Insights using Machine Learning is divided into two main phases:
 
